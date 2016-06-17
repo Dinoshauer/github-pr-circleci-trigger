@@ -1,0 +1,12 @@
+
+{
+  "name": "Github PR CircleCI trigger",
+  "description": "Triggers a new CircleCI build when a PR is opened",
+  "repository": "https://github.com/Dinoshauer/github-pr-circleci-trigger",
+  "keywords": ["node", "circleci", "github", "pull request", "build"],
+  "env": {
+    "CIRCLE_TOKEN": {
+      "description": "Your CircleCI token."
+    }
+  }
+}

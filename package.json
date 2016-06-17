@@ -1,0 +1,15 @@
+{
+  "name": "github-pr-circleci-trigger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kasper Jacobsen",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^13.4.1",
+    "request": "^2.72.0"
+  }
+}
